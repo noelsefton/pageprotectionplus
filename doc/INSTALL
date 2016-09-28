@@ -16,8 +16,8 @@ You always need PEAR and PEAR/Crypt_RSA.
 
 Additionaly, you'll need one of these:
 
-*  GMP system library		http://www.swox.com/gmp/
-*  bin_int PHP package/ext.	http//pecl.php.net/package/big_int
+*  GMP system library		http://www.swox.com/gmp/ -- BROKEN LINK -- https://gmplib.org/ (free library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers.)
+*  bin_int PHP package/ext.	http//pecl.php.net/package/big_int -- BROKEN LINK -- ?? https://wiki.php.net/rfc/bigint ??
 *  bcmath PHP extension		(PHP compiled using --with-bcmath or bcmath module enabled in php.ini)
 
 My favorite is GMP.
